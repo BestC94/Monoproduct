@@ -1,0 +1,16 @@
+[
+   
+    {
+      "id": 1,
+      "product_name": "Produch_1",
+      "product_salary": 10,
+      "profile_image": "assets/image/tesla.jpg"
+    },
+    {
+      "id": 2,
+      "product_name": "Produch_2",
+      "probuct_salary": 15,
+      "profile_image": "assets/image/tesla.jpg"
+    }
+  
+  ]
